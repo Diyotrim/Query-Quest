@@ -2540,7 +2540,7 @@ INSERT INTO interview(interview_id,person_id,transcript) VALUES (390,490,'I was 
 INSERT INTO interview(interview_id,person_id,transcript) VALUES (391,491,'I was with the bridal party, assisting with last-minute preparations. Nothing strange happened as far as I could see.');
 INSERT INTO interview(interview_id,person_id,transcript) VALUES (392,492,'I was enjoying some appetizers with my friends. Everyone seemed to be in a festive mood.');
 INSERT INTO interview(interview_id,person_id,transcript) VALUES (393,493,'I was sitting with my family during the ceremony. It was a beautiful wedding, and I didn’t notice anything unusual.');
-INSERT INTO interview(interview_id,person_id,transcript) VALUES (394,494,'I saw the victim fall suddenly. Nearby was a waiter with a name tag that started with Anu He was serving at the mocktail counter and seemed to be in a rush. I believe he stepped away just before everything happened.');
+INSERT INTO interview(interview_id,person_id,transcript) VALUES (394,494,'I saw the victim fall suddenly. Nearby was a waiter with a name tag that started with Anu. He was serving at the mocktail counter and seemed to be in a rush. I believe he stepped away just before everything happened.');
 INSERT INTO interview(interview_id,person_id,transcript) VALUES (395,495,'I was helping clean up some spilled drinks. Nothing out of the ordinary, just a few excited guests.');
 INSERT INTO interview(interview_id,person_id,transcript) VALUES (396,496,'I was near the dance floor when I saw someone go into the staff-only area. They looked suspicious but quickly left.');
 INSERT INTO interview(interview_id,person_id,transcript) VALUES (397,497,'I was with my friends near the bar. We were chatting and having a good time.');
