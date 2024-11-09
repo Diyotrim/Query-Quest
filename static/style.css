@@ -103,3 +103,16 @@ th, td {
 th {
     background-color: #5e5e5e; /* Dark gray for header */
 }
+
+footer {
+    text-align: center;
+    padding: 8px; /* Keep padding small for compact height */
+    margin-top: 40px; /* Increased margin to move the footer down */
+    font-size: 12px;
+    color: #f1f1f1;
+    background-color: #3e3e3e;
+}
+
+
+
+

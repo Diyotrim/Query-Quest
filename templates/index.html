@@ -8,7 +8,7 @@
     <title>Query Quest</title>
 </head>
 <body>
-    <h1 class="title"> The Great Wedding Whodunit 🔪</h1>
+    <h1 class="title">The Great Wedding Whodunit 🔪</h1>
     
     <div class="instructions">
         <h2>Instructions:</h2>
@@ -25,7 +25,7 @@
     
     <form action="/query" method="POST" class="query-form">
         <textarea name="sql_query" rows="6" placeholder="Enter your SQL query here...">{{ query }}</textarea>
-        <input type="submit" value="Submit Query" class="submit-button">
+        <input type="submit" value="Run Query" class="submit-button">
     </form>
     
     {% if message %}
@@ -60,5 +60,10 @@
     {% elif query %}
     <p class="no-results">No records found.</p>
     {% endif %}
+    
+    <footer>
+        <p>&copy; Created by Diyotrim Maitra and Soham Chatterjee</p>
+    </footer>    
+
 </body>
 </html>
